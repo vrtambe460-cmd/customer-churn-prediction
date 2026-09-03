@@ -1,0 +1,11 @@
+customerID,gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,TotalCharges,Churn
+C201,Female,0,Yes,No,20,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,No,Month-to-month,Yes,Electronic check,89.00,1780.00,No
+C202,Male,0,No,No,1,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,No,Mailed check,42.50,42.50,Yes
+C203,Female,1,Yes,Yes,55,Yes,Yes,Fiber optic,Yes,No,Yes,Yes,No,No,One year,No,Bank transfer (automatic),96.00,5280.00,No
+C204,Male,0,Yes,No,40,Yes,No,DSL,Yes,Yes,No,No,Yes,No,One year,Yes,Credit card (automatic),62.00,2480.00,No
+C205,Female,0,No,No,3,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,77.50,232.50,Yes
+C206,Male,0,Yes,No,28,Yes,Yes,DSL,No,Yes,Yes,No,No,No,One year,No,Mailed check,55.00,1540.00,No
+C207,Female,0,No,No,6,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,71.00,426.00,Yes
+C208,Male,1,Yes,No,65,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,No,Two year,No,Credit card (automatic),108.00,7020.00,No
+C209,Female,0,Yes,Yes,18,Yes,No,DSL,Yes,No,No,No,No,No,One year,Yes,Bank transfer (automatic),47.00,846.00,No
+C210,Male,0,No,No,2,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,80.00,160.00,Yes
